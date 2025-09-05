@@ -45,7 +45,7 @@ Seleccione una opción: 1
 🚀 Instalación y ejecución
 
 Clonar el repositorio o copiar el código:
-git clone https://github.com/tuusuario/CajeroAutomatico.git
+git clone https://github.com/DavidRendonDev/CajeroAutomatico.git
 cd CajeroAutomatico
 
 Crear un nuevo proyecto de consola en .NET (si no existe):
